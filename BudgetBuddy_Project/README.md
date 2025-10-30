@@ -1,0 +1,1 @@
+# BudgetBuddy Project\nThis is a MERN stack project.
